@@ -27,3 +27,6 @@ To run this project locally, follow these steps:
 - Install *Expo CLI* globally by running:
   ```bash
   npm install -g expo-cli
+### Video
+Video For The App  
+https://youtu.be/Krb2VFuBnU8?si=WFVAxiAzXpRnhqkx
